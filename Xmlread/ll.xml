@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedDevice>
+    <Group name="book">
+        <Device ip="" name="title"/>
+        <Device ip="" name="author"/>
+    </Group>
+    <Group name="book">
+        <Device ip="" name="title"/>
+        <Device ip="" name="author"/>
+    </Group>
+    <Group name="book">
+        <Device ip="" name="title"/>
+        <Device ip="" name="author"/>
+    </Group>
+    <Group name="新建组"/>
+    <Group name="新建组"/>
+    <Group name="新建组"/>
+    <Group name="新建组"/>
+    <Group name="新建组"/>
+</ManagedDevice>

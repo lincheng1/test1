@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedDevice>
+    <Group name="Group">
+        <Device ip="" name="Device"/>
+        <Device ip="" name="Device"/>
+    </Group>
+    <Group name="Group">
+        <Device ip="" name="Device"/>
+        <Device ip="" name="Device"/>
+    </Group>
+    <Group name="Group">
+        <Device ip="" name="Device"/>
+        <Device ip="" name="Device"/>
+    </Group>
+</ManagedDevice>

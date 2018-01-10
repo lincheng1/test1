@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedDevice>
+    <Group name="variations">
+        <Device ip="" name="option"/>
+        <Device ip="" name="option"/>
+    </Group>
+    <Group name="utensils">
+        <Device ip="" name="listitem">
+            <Channel name="utensilname">
+                <RtspUrl></RtspUrl>
+            </Channel>
+            <Channel name="quantity">
+                <RtspUrl></RtspUrl>
+            </Channel>
+        </Device>
+        <Device ip="" name="listitem">
+            <Channel name="utensilname">
+                <RtspUrl></RtspUrl>
+            </Channel>
+            <Channel name="quantity">
+                <RtspUrl></RtspUrl>
+            </Channel>
+        </Device>
+        <Device ip="" name="listitem">
+            <Channel name="utensilname">
+                <RtspUrl></RtspUrl>
+            </Channel>
+            <Channel name="quantity">
+                <RtspUrl></RtspUrl>
+            </Channel>
+        </Device>
+    </Group>
+    <Group name="recipename"/>
+    <Group name="preptime"/>
+    <Group name="ingredlist">
+        <Device ip="" name="listitem">
+            <Channel name="quantity">
+                <RtspUrl></RtspUrl>
+            </Channel>
+            <Channel name="itemdescription">
+                <RtspUrl></RtspUrl>
+            </Channel>
+        </Device>
+        <Device ip="" name="listitem">
+            <Channel name="quantity">
+                <RtspUrl></RtspUrl>
+            </Channel>
+            <Channel name="itemdescription">
+                <RtspUrl></RtspUrl>
+            </Channel>
+        </Device>
+        <Device ip="" name="listitem">
+            <Channel name="quantity">
+                <RtspUrl></RtspUrl>
+            </Channel>
+            <Channel name="itemdescription">
+                <RtspUrl></RtspUrl>
+            </Channel>
+        </Device>
+        <Device ip="" name="listitem">
+            <Channel name="quantity">
+                <RtspUrl></RtspUrl>
+            </Channel>
+            <Channel name="itemdescription">
+                <RtspUrl></RtspUrl>
+            </Channel>
+        </Device>
+    </Group>
+    <Group name="directions">
+        <Device ip="" name="step"/>
+        <Device ip="" name="step"/>
+        <Device ip="" name="step"/>
+        <Device ip="" name="step"/>
+        <Device ip="" name="step"/>
+    </Group>
+</ManagedDevice>
